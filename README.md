@@ -1,6 +1,6 @@
 # Project Title: HiFi Delivery Eats
 # 🚀 HiFi Delivery Eats - Online Food Ordering System
-HiFi Delivery Eats is a full-stack food ordering and delivery system designed to facilitate seamless order management between customers, admins, and delivery agents. This project is built using Flask, SQLite, JavaScript, HTML, and CSS, providing features such as menu browsing, cart management, order tracking, and delivery assignment.
+HiFi Delivery Eats is a full-stack food ordering and delivery system designed to facilitate seamless order management between customers, admins, and delivery agents. This project is built using Flask, SQLite, JavaScript, HTML, and CSS, providing features such as user authentication and role management, menu management, cart management, order management, order assignment and visualization,  order tracking, and delivery assignment.
 # 📌 Features
 # 🌟 Customer Features
 ✅ User Authentication: Secure login and registration.
