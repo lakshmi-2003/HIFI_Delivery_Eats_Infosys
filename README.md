@@ -3,28 +3,28 @@
 HiFi Delivery Eats is a full-stack food ordering and delivery system designed to facilitate seamless order management between customers, admins, and delivery agents. This project is built using Flask, SQLite, JavaScript, HTML, and CSS, providing features such as user authentication and role management, menu management, cart management, order management, order assignment and visualization,  order tracking, and delivery assignment.
 # 📌 Features
 # 🌟 Customer Features
-✅ User Authentication: Secure login and registration.
-✅ Browse Menu: View available food items with categories and dietary preferences.
-✅ Add to Cart: Customers can add items to the cart with quantity updates.
-✅ Checkout & Add Discount: Check the selected items and total amount and Add the Disccount by claiming the promotions.
-✅ Order Placement: Place the order by validating the Correct Delivery Address and checking the total payment.
-✅ Order Summary & Order Tracking: View the summary of placed orders and Real-time order status updates.
-✅ Order Cancellation: Cancel the Orders at any time before the out for delivery.
-✅ Leave Feedback: Customers can submit feedback on completed orders.
+✅ User Authentication: Secure login and registration.<br>
+✅ Browse Menu: View available food items with categories and dietary preferences.<br>
+✅ Add to Cart: Customers can add items to the cart with quantity updates.<br>
+✅ Checkout & Add Discount: Check the selected items and total amount and Add the Disccount by claiming the promotions.<br>
+✅ Order Placement: Place the order by validating the Correct Delivery Address and checking the total payment.<br>
+✅ Order Summary & Order Tracking: View the summary of placed orders and Real-time order status updates.<br>
+✅ Order Cancellation: Cancel the Orders at any time before the out for delivery.<br>
+✅ Leave Feedback: Customers can submit feedback on completed orders.<br>
 
 # 🔥 Admin Features
-✅ Reports and sales trends: See all the sales trends reports..
-✅ Dashboard for Order Management: View, process, and manage orders.
-✅ Assign Delivery Agents: Assign orders to available agents.
-✅ Menu Management: Add, update, and remove menu items.
-✅ View Customer Feedback: Analyze customer reviews and ratings.
-✅ Reported Issues: Resolve the Deliverry agent reported issues.
+✅ Reports and sales trends: See all the sales trends reports.<br>
+✅ Dashboard for Order Management: View, process, and manage orders.<br>
+✅ Assign Delivery Agents: Assign orders to available agents.<br>
+✅ Menu Management: Add, update, and remove menu items.<br>
+✅ View Customer Feedback: Analyze customer reviews and ratings.<br>
+✅ Reported Issues: Resolve the Deliverry agent reported issues.<br>
 
 # 🚴 Delivery Agent Features
-✅ View Assigned Orders: See pending deliveries.
-✅ Routes: Find the routes to deliver the orders.
-✅ Update Delivery Status: Mark orders as "Out for Delivery" and "Completed."
-✅ Issues: Report if any issues arise while delivering the orders.
+✅ View Assigned Orders: See pending deliveries.<br>
+✅ Routes: Find the routes to deliver the orders.<br>
+✅ Update Delivery Status: Mark orders as "Out for Delivery" and "Completed."<br>
+✅ Issues: Report if any issues arise while delivering the orders.<br>
 
 # 🛠️ Tech Stack
 * Frontend: HTML, CSS, JavaScript 
@@ -53,7 +53,7 @@ python app.py<br>
 5️⃣ Access the App in Browser<br>
 http://127.0.0.1:5000/
 
-# Project Highlights
+# 🎯 Project Highlights
 * Real-Time Tracking: Monitor the progress of your order from the restaurant to the doorstep.
 * Session Timeout: Automatically redirects users to the sign-in page after 5 to 10 minutes of inactivity for enhanced security.
 * Sentiment Analysis: Determines sentiment using predefined linguistic and contextual rules.
